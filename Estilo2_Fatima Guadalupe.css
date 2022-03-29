@@ -1,0 +1,32 @@
+.divcontenedor
+{
+border:1px solid brown;
+width:100%;
+height:auto;
+padding:1px;
+background:blue;
+}
+
+.divA
+{
+border:1px solid brown;
+width:120px;
+height:120px;
+margin:5px;
+padding:5px;
+background:pink;
+}
+
+body
+
+ .divB
+ {
+ border:1px solid black;
+ width:87%;
+ height:61.5%;
+ margin:5px:
+ padding:5px;
+ background:pink;
+ float:center;
+ }
+
